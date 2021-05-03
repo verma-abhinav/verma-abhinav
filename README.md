@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Gaming enthusiast and also like to read sometimes
 -->
-![enter image description here](https://github-readme-stats.vercel.app/api?username=verma-abhinav&&show_icons=true&title_color=FFD800&icon_color=bb2acf&text_color=211F1F&bg_color=ffffff)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=verma-abhinav&&show_icons=true&title_color=D17B11&icon_color=bb2acf&text_color=211F1F&bg_color=ffffff)
