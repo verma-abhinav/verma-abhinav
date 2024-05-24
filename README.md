@@ -1,10 +1,9 @@
 ### Hola! 👋
 
-- 🔭 I’m currently working on Python and C++
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on React and GoLang
+- 🌱 I’m currently learning GoLang
 - 👯 I’m looking to collaborate on Linkdin
-- 🤔 I’m looking for help with Machine Learning Projects
-- 💬 Ask me about Python or Database Management
+- 💬 Ask me about C++ / React development
 - 📫 How to reach me: [Linkedin -@abhinav-verma](https://www.linkedin.com/in/abhinav-verma-383a5a1b7)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Gaming enthusiast and also like to read sometimes
